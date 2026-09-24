@@ -1,6 +1,6 @@
-# 🤖 AI Research Assistant
+# 🤖DocuRAG — Document Question Answering
 
-A Retrieval-Augmented Generation (RAG) based AI Research Assistant built with **FastAPI**, **Google Gemini API**, and **ChromaDB**. The application allows users to upload research PDFs, perform semantic search, and receive AI-generated answers with source citations.
+A Retrieval-Augmented Generation (RAG) based DocuRAG — Document Question Answering built with **FastAPI**, **Google Gemini API**, and **ChromaDB**. The application allows users to upload research PDFs, perform semantic search, and receive AI-generated answers with source citations.
 
 ---
 
